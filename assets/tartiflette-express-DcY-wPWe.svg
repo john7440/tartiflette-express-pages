@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <title>Tartiflette Express</title>
+  <defs>
+    <linearGradient id="badge" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#235061" />
+      <stop offset="1" stop-color="#0b1e2e" />
+    </linearGradient>
+  </defs>
+
+  <path d="M24 4h48q20 0 20 20v38q0 13-12 20L55 93q-7 3-14 0L16 82Q4 75 4 62V24Q4 4 24 4Z"
+    fill="url(#badge)" stroke="#7aafb3" stroke-width="2.6" />
+
+  <path d="m12 55 22-35q2-3 4.5 0L55 42l10-13q2-2.5 4 0l16 25Z" fill="#568591" />
+  <path d="m25 34 9-14q2-3 4.5 0L49 34l-8-2-5 4-4-4Z" fill="#e0f8f0" />
+  <path d="m60 35 5-6q2-2.5 4 0l5 8-6-2-4 2Z" fill="#addcda" />
+  <path d="m73 12 2.5 5.5L81 20l-5.5 2.5L73 28l-2.5-5.5L65 20l5.5-2.5Z" fill="#ffdb88" />
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m16 74.5 44-5.7q12.5-1.6 16.5-10.3 2.4-5.2-2.6-6.1"
+      stroke="#669da7" stroke-width="4.3" />
+    <path d="m30 71 1.2 8m25.5-12 1.7 8.2"
+      stroke="#a4d4ce" stroke-width="4.5" />
+    <path d="m12 58 8-1m-9.5 8 6.4-.8" stroke="#94c9c7" stroke-width="3" />
+  </g>
+  <path d="m21 65 46-7q6-.8 6.8 4.2l.2 3.7-48.6 8q-5 .7-5.7-3.5Z"
+    fill="#a2cfc8" stroke="#214558" stroke-width="2.6" stroke-linejoin="round" />
+
+  <path d="m24 55 25-16q3.5-2.3 7.2.2L71 49.5q4.5 3 2 8l-3.5 6q-1.2 2.1-4.1 2.6L28 71q-6 .8-6-4v-7q0-3 2-5Z"
+    fill="#d99049" stroke="#784b35" stroke-width="2.5" stroke-linejoin="round" />
+  <path d="m24 55 25-16q3.5-2.3 7.2.2L71 49.5q3.5 2.2 2.7 4.8L27 62q-5 .8-5-2 0-3 2-5Z"
+    fill="#ffce70" />
+  <path d="m26.5 65 42.2-6.3" fill="none" stroke="#ffe2a6" stroke-width="2.8" stroke-linecap="round" />
+  <path d="M44 51q3-3 7-2m7-3q3-.8 6 1m-10 8q4-2.5 8-1.9"
+    fill="none" stroke="#b7703e" stroke-width="2.4" stroke-linecap="round" />
+
+  <path d="m20 81 45-5.6q13-1.6 17-12.3 1.9-5.1-2.7-5.2"
+    fill="none" stroke="#e0f8ef" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
